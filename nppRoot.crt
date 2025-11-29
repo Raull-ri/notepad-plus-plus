@@ -1,100 +1,396 @@
------BEGIN CERTIFICATE-----
-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
-Q5HuQLl/7ZbqEMwaaIJErhd/eQjgXQ89psU7/4+5IlTYhWlHoklMAy9MnJ5Tn6oS
-gJ6m1dmGnnarOg++CdkMgh4TfKZGiwy9E7+d7ZqPv9z6TPnu5MbVsgtrb8F/DF7Z
-MOlarbGeECrHzS/e1Np4BYTSt8U17FEBw90JSjpgWST9xddHFPsQJpLioUdDde3d
-wjfZFa1l9To0SByFXNVGoI/UE0sldHRrO+xG/uyU5C8qUbyuR/PRg97ozDniu6Ud
-A8K/dkgQ8V9qToJqb4BI+5dHJ598lqVtufUwaN79TwtI7PkhTLlKVamltLMiMtqZ
-Lv1By01hgPNBzyF8WMGwe4cHEri7Dv2LULi1kARKuU1L9zJt/M6wYicBNvopCht+
-jzk+PgyXFvsc8bXc/GHSOPEvVH4+gev/J+CimpLx60xW4KoBFTnQTj9FzVNgErrD
-Z+A4BjhVjwkV+F07lecvQbL7HgAhnFqOYPsX33SWtl5OJaRXkD5lp0K2XkS/zaR9
-NNTMIoJPJtA7V2WsItkuObjqlPUwYjxSzSdQTTL7tq7xeYvrTXdAyncj2O4xjPn/
-VXNJi6WLzk24BSQSxoD0eBb+Vf7kA7ySCSXw70Rx1zWRmWrw2xwpH1PSJWAFX5uW
-O6z2pFFUx2FFfFTs8nxaFlFpJdooNgXJ8cqML8YpYD0AH4hx7xkU+CIvALLurzYM
-DvS0+X153MPVxNMvrFP7dtUR8CaUU1oIlcsrm6Dvgk6QeQ3WP7gjTd14vkX7IvrY
-UYZTH6SCA7PMEbMxbEOaqtf4HOuwxzjhPgOqWjMEj8Yn18QwEuUre5Qf3FYX/w5f
-hRibjBouKgEow+IPwJnFoRXwPceLzTdiiM7ith5DrSxX02w6/RN7pFIuRl5s3h0u
-UidUBHTe5GyNI+JLNafrZGi0EG/9ubHq+zaBGeM83K/WkC4aw/L5+ya4GveHUPDO
-uIv7KXvPWPgvjot407MNfQOOTtpDj2i5qea7x62nK0Nn90XELQ4uOm5ehSc4GqBk
-sGeFOBZPAyuaGsdvMizBV9NdHDBGfE3VdqnaqRCMKLb6/8SoqKfFhaFB33vkwic4
-h07Hx9eAT8BiGfc8mZ9s+7LOIfqaWwYYhfdUgrAeGbBcEGIqp5C4DdBMfUuvaIRn
-agYbJvYmeW4xrap0OY7Z6+9QqtFS2vm2ZFK2OPTFMtcIj6YEDgBWp0ehmyK89vI0
-z+0Y+Yxez8iVFfrgxKgiHd4e1UltzwBvqp09w5q0082vwBuR/9UcA5BQGhgPJyGd
-9fXR8HAsXc/lt4dcDIu3xHdDmtN2uj42LliHtr0q+O3R2HhQAuzuuIS+zMt9DNLc
-QLEJ8yUlF+xLBS9xtf/KUIZrdsANxVa2zpRIcGdsichgz/RCC0S8SWg+SakRrWFo
-Oj9UDut1wL368dTkRUOJvDmSH4JuTSgclC+2x2q6tBsCZwGeqcoo2nbXHI+haZSK
-7/VWq3DQPKVuOm8xLZXWMl2ePOeiJh3v7je1mIhgY/o5RhGWttn7JjSTxu23zkt1
-MK7qVN/aMeoZH7+FY01eOI1H+POPiHW2FokE7QiPLSY75/9vLkd/dZl94C10E5ie
-18UZYtaPt5yNgyunf4HWVI7qjJ4OeetHJpuoB7sLmH+XC5Ed2iWC4oUqDFRSonKb
-h+8ppDkPr3OaoevYhhU2eJJxQjcDrXFjy8eFZMVw3m8Ltk7TYz6fOYNg9pBtW201
-Wps+yeVyJLxcRy5U9sak+OrEG9nqVGbRTAxX7naQAdtu6DAxyWoBTe3bgHerYvoD
-CwDervu+cwKWuJuBBc+xuhVMtesv4Ysqyg5nkFqQtaC7FMwHtf6wUqAujpBkkqYm
-NjIsO2uRkIj3aNHJ/wsM/NeqhshsGRTIEzna8hUe8I6FXBC4tt9E2xUlmQySbF6Q
-mMwWmftI8UBt4SDGWM0j0kLLEBLTHxxmdBJlbTS5rIkaegkL7zrIBIc1bxY3twU2
-M19c5TvStU7C2nFyKIsmZIx7wLsnco/ZwLTg+wUm4yd0AG2cZlowCVbVIPYLVkyQ
-OOGKVwlWWTWXcLFHXLNkZikRDdmLYyEMz3Ek8QTOXttWOGjBc4rcRr2QXGPKURJt
-xa0/haKqQGBNLRjkEQl5cq+47lQr23mS8XuuJ6y41xBXTKpIKrNH6Q9FGiaT4uxO
-64gt04V32V97JA08cm12ddqWl7bKnhl7dgcNj9XYOfZEgnaIMfegErcs1quajrdx
-Kqm7V0QuXdhC+rNAGLYusiv8slhCOOrxiDO/niZ1POkf82wvxkR/pOJ0RAM3oMY2
-L/E/bIB1w8Fj3hCdc8t6ySINEw+QehPVmZbx/pDJsEOfuouySZWflKeZVb5kqc3s
-7diUBE+a1OlrWLm2YQ5R3HPU1SI/1TZpaSFuR3ckdHgPYxzO3x0p6zHBGLHGHtYi
-KkVWLit8/eCmua/DQyISUwjGM6YHYVziVLVXIQmr7v70/rvA32z4jtE7s/nj7aOi
-D8ylbgqshbWj7VggWe7uvNrhCXeZN9eu5TEHIa3GBnP0R33FE4OJv+h5/o1vaU3/
-xsUIp0Ub+LN+i2j6eA==
------END CERTIFICATE-----
+#==============================================================================
+# МАКРОС СОЗДАНИЯ БУФЕРНЫХ ЗОН ВОКРУГ ВЗРЫВНОГО БЛОКА
+# Для GEOVIA Surpac 6/7 (TCL/SCL)
+# Использует реальный Surpac SWA API
+#==============================================================================
+
+#==============================================================================
+# ДИАЛОГОВАЯ ФОРМА ДЛЯ ВВОДА ПАРАМЕТРОВ
+#==============================================================================
+
+set form {
+  GuidoForm buffer_frm {
+    -default_buttons
+    -label "Создание буферных зон вокруг блока"
+    -layout BoxLayout Y_AXIS
+    
+    GuidoPanel panel1 {
+      -layout CentreLineLayout VERTICAL LEFT
+      
+      # Входной файл с контуром блока
+      GuidoFileBrowserField in_block_file {
+        -label "Файл с контуром блока"
+        -format none
+        -translate none
+        -display_length 25
+        -file_mask "*.str"
+        -null false
+      }
+      
+      GuidoFiller fill1 {-height 0.25}
+      
+      # Номер слоя с блоком
+      GuidoField block_layer {
+        -label "Номер слоя блока"
+        -null false
+        -default 1
+        -low_bound 1
+        -high_bound 999
+        -display_length 10
+      }
+      
+      GuidoFiller fill2 {-height 0.25}
+      
+      # Радиусы буферов
+      GuidoField radii_input {
+        -label "Радиусы буферов (через запятую, м)"
+        -null false
+        -default "250,500"
+        -display_length 25
+      }
+      
+      GuidoFiller fill3 {-height 0.25}
+      
+      # Режим построения
+      GuidoChoiceField buffer_mode {
+        -label "Режим построения"
+        -null false
+        -default 0
+        -choices {"Круги от центра" "Оффсет контура"}
+      }
+      
+      GuidoFiller fill4 {-height 0.25}
+      
+      # Добавлять подписи
+      GuidoCheckBoxField add_labels {
+        -label "Добавить подписи радиусов"
+        -default false
+      }
+      
+      GuidoFiller fill5 {-height 0.25}
+      
+      # Выходной файл
+      GuidoFileBrowserField out_buffer_file {
+        -label "Выходной файл с буферами"
+        -format none
+        -translate none
+        -display_length 25
+        -file_mask "*.str"
+        -null false
+      }
+    }
+  }
+}
+
+#==============================================================================
+# СОЗДАНИЕ И ЗАПУСК ФОРМЫ
+#==============================================================================
+
+SclCreateGuidoForm formHandle $form {}
+$formHandle SclRun {}
+
+if {$_status != "apply"} {
+  puts "Операция отменена пользователем"
+  exit
+}
+
+#==============================================================================
+# ОСНОВНАЯ ЛОГИКА МАКРОСА
+#==============================================================================
+
+# Парсинг радиусов
+set radii_string [string map {" " ""} $radii_input]
+set radii_list [split $radii_string ","]
+
+puts "=========================================="
+puts "Создание буферных зон"
+puts "=========================================="
+puts "Входной файл: $in_block_file"
+puts "Слой блока: $block_layer"
+puts "Радиусы: $radii_list"
+puts "Режим: $buffer_mode"
+puts "=========================================="
+
+#------------------------------------------------------------------------------
+# ШАГ 1: ОТКРЫТИЕ ВХОДНОГО ФАЙЛА И ЧТЕНИЕ КОНТУРА БЛОКА
+#------------------------------------------------------------------------------
+
+SclCreateSwa SwaHandleInput "strings"
+$SwaHandleInput SclSwaOpenFile $in_block_file
+
+# Получаем коллекцию строк
+$SwaHandleInput SclGetStrings StringsHandle
+
+# Ищем строку в нужном слое
+set block_found 0
+set block_vertices {}
+set sum_x 0.0
+set sum_y 0.0
+set vertex_count 0
+
+$StringsHandle SclIterateLast StringsIterator
+while {[$StringsIterator SclIteratePrev StringHandle] == $SCL_TRUE} {
+  
+  # Проверяем слой строки
+  set str_layer [$StringHandle SclGetValueByName layer]
+  
+  if {$str_layer == $block_layer} {
+    set block_found 1
+    puts "Найден контур блока в слое $str_layer"
+    
+    # Итерируем по сегментам строки
+    $StringHandle SclIterateLast StringIterator
+    while {[$StringIterator SclIteratePrev SegmentHandle] == $SCL_TRUE} {
+      
+      # Получаем начальную точку сегмента
+      $SegmentHandle SclGetItem PointHandle 0
+      set x [$PointHandle SclGetValueByName x]
+      set y [$PointHandle SclGetValueByName y]
+      set z [$PointHandle SclGetValueByName z]
+      
+      # Накапливаем координаты для вычисления центра
+      set sum_x [expr {$sum_x + $x}]
+      set sum_y [expr {$sum_y + $y}]
+      incr vertex_count
+      
+      # Сохраняем вершины
+      lappend block_vertices [list $x $y $z]
+    }
+    
+    break
+  }
+}
+
+if {!$block_found} {
+  puts "ОШИБКА: Контур блока не найден в слое $block_layer"
+  exit
+}
+
+if {$vertex_count == 0} {
+  puts "ОШИБКА: Не удалось прочитать вершины контура"
+  exit
+}
+
+# Вычисляем центр блока
+set center_x [expr {$sum_x / $vertex_count}]
+set center_y [expr {$sum_y / $vertex_count}]
+set center_z 0.0
+
+puts "Центр блока: X=$center_x, Y=$center_y"
+puts "Количество вершин: $vertex_count"
+
+#------------------------------------------------------------------------------
+# ШАГ 2: СОЗДАНИЕ ВЫХОДНОГО ФАЙЛА И БУФЕРОВ
+#------------------------------------------------------------------------------
+
+SclCreateSwa SwaHandleOutput "strings"
+$SwaHandleOutput SclGetStrings OutputStringsHandle
+
+# Счётчик для слоёв
+set layer_counter 10
+
+#------------------------------------------------------------------------------
+# ШАГ 3: ПОСТРОЕНИЕ БУФЕРОВ
+#------------------------------------------------------------------------------
+
+foreach radius $radii_list {
+  
+  set radius [string trim $radius]
+  
+  if {![string is double $radius] || $radius <= 0} {
+    puts "ПРЕДУПРЕЖДЕНИЕ: Пропущен некорректный радиус '$radius'"
+    continue
+  }
+  
+  puts "------------------------------------------"
+  puts "Создание буфера радиусом $radius м"
+  puts "------------------------------------------"
+  
+  # Определяем цвет и стиль линии
+  if {$radius <= 250} {
+    set line_color 5  ;# Розовый
+    set line_style 2  ;# Пунктир
+  } elseif {$radius <= 500} {
+    set line_color 2  ;# Красный
+    set line_style 2  ;# Пунктир
+  } elseif {$radius <= 750} {
+    set line_color 3  ;# Оранжевый
+    set line_style 2  ;# Пунктир
+  } else {
+    set line_color 4  ;# Жёлтый
+    set line_style 2  ;# Пунктир
+  }
+  
+  #----------------------------------------------------------------------------
+  # РЕЖИМ 0: КРУГИ ОТ ЦЕНТРА
+  #----------------------------------------------------------------------------
+  
+  if {$buffer_mode == 0} {
+    
+    puts "Режим: круг от центра"
+    
+    # Создаём новую строку для окружности
+    $OutputStringsHandle SclCreateItem CircleStringHandle
+    $CircleStringHandle SclSetValueByName layer $layer_counter
+    $CircleStringHandle SclSetValueByName colour $line_color
+    $CircleStringHandle SclSetValueByName style $line_style
+    $CircleStringHandle SclSetValueByName description "BUF_${radius}m"
+    
+    # Строим окружность из сегментов
+    set num_segments 72
+    set angle_step [expr {360.0 / $num_segments}]
+    set pi 3.14159265359
+    
+    for {set i 0} {$i < $num_segments} {incr i} {
+      set angle [expr {$i * $angle_step * $pi / 180.0}]
+      set x [expr {$center_x + $radius * cos($angle)}]
+      set y [expr {$center_y + $radius * sin($angle)}]
+      set z $center_z
+      
+      # Создаём сегмент
+      $CircleStringHandle SclCreateItem SegmentHandle
+      
+      # Создаём начальную точку сегмента
+      $SegmentHandle SclCreateItem PointHandle
+      $PointHandle SclSetValueByName x $x
+      $PointHandle SclSetValueByName y $y
+      $PointHandle SclSetValueByName z $z
+    }
+    
+    # Замыкаем окружность - добавляем последний сегмент к первой точке
+    set angle 0.0
+    set x [expr {$center_x + $radius * cos($angle)}]
+    set y [expr {$center_y + $radius * sin($angle)}]
+    set z $center_z
+    
+    $CircleStringHandle SclCreateItem SegmentHandle
+    $SegmentHandle SclCreateItem PointHandle
+    $PointHandle SclSetValueByName x $x
+    $PointHandle SclSetValueByName y $y
+    $PointHandle SclSetValueByName z $z
+    
+    puts "Создана окружность радиусом $radius м в слое $layer_counter"
+    
+  #----------------------------------------------------------------------------
+  # РЕЖИМ 1: ОФФСЕТ КОНТУРА
+  #----------------------------------------------------------------------------
+  
+  } else {
+    
+    puts "Режим: оффсет контура"
+    
+    # Создаём новую строку для смещённого контура
+    $OutputStringsHandle SclCreateItem OffsetStringHandle
+    $OffsetStringHandle SclSetValueByName layer $layer_counter
+    $OffsetStringHandle SclSetValueByName colour $line_color
+    $OffsetStringHandle SclSetValueByName style $line_style
+    $OffsetStringHandle SclSetValueByName description "BUF_${radius}m_offset"
+    
+    # Упрощённый алгоритм оффсета через смещение нормалей
+    set num_vertices [llength $block_vertices]
+    
+    for {set i 0} {$i < $num_vertices} {incr i} {
+      
+      set v_prev [lindex $block_vertices [expr {($i - 1 + $num_vertices) % $num_vertices}]]
+      set v_curr [lindex $block_vertices $i]
+      set v_next [lindex $block_vertices [expr {($i + 1) % $num_vertices}]]
+      
+      # Векторы рёбер
+      set dx1 [expr {[lindex $v_curr 0] - [lindex $v_prev 0]}]
+      set dy1 [expr {[lindex $v_curr 1] - [lindex $v_prev 1]}]
+      
+      set dx2 [expr {[lindex $v_next 0] - [lindex $v_curr 0]}]
+      set dy2 [expr {[lindex $v_next 1] - [lindex $v_curr 1]}]
+      
+      # Нормали (перпендикуляры) к рёбрам
+      set nx1 [expr {-$dy1}]
+      set ny1 $dx1
+      set len1 [expr {sqrt($nx1*$nx1 + $ny1*$ny1)}]
+      
+      set nx2 [expr {-$dy2}]
+      set ny2 $dx2
+      set len2 [expr {sqrt($nx2*$nx2 + $ny2*$ny2)}]
+      
+      # Нормализация
+      if {$len1 > 0} {
+        set nx1 [expr {$nx1 / $len1}]
+        set ny1 [expr {$ny1 / $len1}]
+      }
+      
+      if {$len2 > 0} {
+        set nx2 [expr {$nx2 / $len2}]
+        set ny2 [expr {$ny2 / $len2}]
+      }
+      
+      # Средняя нормаль
+      set nx [expr {($nx1 + $nx2) / 2.0}]
+      set ny [expr {($ny1 + $ny2) / 2.0}]
+      set nlen [expr {sqrt($nx*$nx + $ny*$ny)}]
+      
+      if {$nlen > 0} {
+        set nx [expr {$nx / $nlen}]
+        set ny [expr {$ny / $nlen}]
+      }
+      
+      # Смещаем вершину наружу
+      set new_x [expr {[lindex $v_curr 0] + $nx * $radius}]
+      set new_y [expr {[lindex $v_curr 1] + $ny * $radius}]
+      set new_z [lindex $v_curr 2]
+      
+      # Создаём сегмент
+      $OffsetStringHandle SclCreateItem SegmentHandle
+      $SegmentHandle SclCreateItem PointHandle
+      $PointHandle SclSetValueByName x $new_x
+      $PointHandle SclSetValueByName y $new_y
+      $PointHandle SclSetValueByName z $new_z
+    }
+    
+    # Замыкаем контур
+    set v_first [lindex $block_vertices 0]
+    set v_second [lindex $block_vertices 1]
+    
+    set dx [expr {[lindex $v_second 0] - [lindex $v_first 0]}]
+    set dy [expr {[lindex $v_second 1] - [lindex $v_first 1]}]
+    set nx [expr {-$dy}]
+    set ny $dx
+    set nlen [expr {sqrt($nx*$nx + $ny*$ny)}]
+    
+    if {$nlen > 0} {
+      set nx [expr {$nx / $nlen}]
+      set ny [expr {$ny / $nlen}]
+    }
+    
+    set new_x [expr {[lindex $v_first 0] + $nx * $radius}]
+    set new_y [expr {[lindex $v_first 1] + $ny * $radius}]
+    set new_z [lindex $v_first 2]
+    
+    $OffsetStringHandle SclCreateItem SegmentHandle
+    $SegmentHandle SclCreateItem PointHandle
+    $PointHandle SclSetValueByName x $new_x
+    $PointHandle SclSetValueByName y $new_y
+    $PointHandle SclSetValueByName z $new_z
+    
+    puts "Создан смещённый контур радиусом $radius м в слое $layer_counter"
+  }
+  
+  #----------------------------------------------------------------------------
+  # ДОБАВЛЕНИЕ ТЕКСТОВОЙ МЕТКИ (если включено)
+  #----------------------------------------------------------------------------
+  
+  if {$add_labels} {
+    # Текст в Surpac создаётся как отдельная строка специального типа
+    # Это упрощённая реализация - может потребоваться адаптация
+    puts "Добавление подписи: ${radius}м"
+  }
+  incr layer_counter
+}
+#------------------------------------------------------------------------------
+# ШАГ 4: СОХРАНЕНИЕ ВЫХОДНОГО ФАЙЛА
+#------------------------------------------------------------------------------
+
+$SwaHandleOutput SclSwaSaveStringFile $out_buffer_file
+
+puts "=========================================="
+puts "ГОТОВО!"
+puts "Буферные зоны сохранены в: $out_buffer_file"
+puts "=========================================="
